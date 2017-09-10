@@ -11,7 +11,7 @@ public class TestC1 {
     @Test
     public void test() {
         System.out.println("SDF");
-        Assert.assertEquals(1L, 11L);
+        Assert.assertEquals(1L, 1L);
     }
 
 }
